@@ -21,3 +21,27 @@
   * [ ] [G.To Go Or Not To Go?](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/G)
 
 ## Individual Problem
+  * [A.Watermelon](https://codeforces.com/contest/4/problem/A)
+    * Rating : 800
+    * Code : 4A.cpp
+  * [A.Way Too Long Words](https://codeforces.com/contest/71/problem/A)
+    * Rating : 800
+    * Code : 71A.cpp  
+    * Tag : String
+  * [A.String Task](https://codeforces.com/contest/118/problem/A)
+    * Rating : 1000
+    * Code : 118A.cpp  
+    * Tag : String
+  * [C.Number of Ways](https://codeforces.com/contest/466/problem/C)
+    * Rating : 1700
+    * Code : 466C.cpp
+    * Tag : DP, Two Pointers, Brute Force, Binary Search
+  * [C.Intense Heat](https://codeforces.com/contest/1003/problem/C)
+    * Rating : 1300
+    * Code : 1003C.cpp
+    * Tag : Simulation
+  * [B.Just Eat It!](https://codeforces.com/contest/1285/problem/B)
+    * Rating : 1300
+    * Code : 1285B.cpp
+    * Tag : DP, Greedy
+  
