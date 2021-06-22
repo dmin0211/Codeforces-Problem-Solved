@@ -1,9 +1,19 @@
 # Codeforces-Problem-Solved
 ## Codeforces Round Div.3
 * ### [#710](https://github.com/dmin0211/Codeforces-Round-710)
-  * [A.Strange Table](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/A)
-  * [B.Partial Replacement](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/B)
-  * [C.Double-ended Strings](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/C)
-  * [D.Epic Transformation](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/D)
-  * [E.Restoring the Permutation](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/E)
+  * [x] [A.Strange Table](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/A)
+  * [x] [B.Partial Replacement](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/B)
+  * [x] [C.Double-ended Strings](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/C)
+  * [x] [D.Epic Transformation](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/D)
+  * [x] [E.Restoring the Permutation](https://codeforces.com/group/Zug0IuFtc3/contest/1506/problem/E)
+  * [ ] 
+ 
 * ### [#719](https://github.com/dmin0211/Codeforces-Round-719)
+  * [x] [A.Do Not Be Distracted!](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/A)
+  * [x] [B.Ordinary Numbers](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/B)
+  * [x] [C.Not Adjacent Matrix](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/C)
+  * [x] [D.Same Differences](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/D) 
+  * [ ] [E.Arranging The Sheep](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/E) 
+  * [ ] [F1.Guess the K-th Zero (Easy version)](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/F1)
+  * [ ] [F2.Guess the K-th Zero (Hard version)](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/F2)
+  * [ ] [G.To Go Or Not To Go?](https://codeforces.com/group/Zug0IuFtc3/contest/1520/problem/G)
