@@ -44,4 +44,24 @@
     * Rating : 1300
     * Code : 1285B.cpp
     * Tag : DP, Greedy
-  
+    
+  * [B.Taxi](https://codeforces.com/contest/158/problem/B)
+    * Rating : 1100
+    * Code : 158B.cpp
+    * Tag : Greedy
+    
+  * [A.Twins](https://codeforces.com/contest/160/problem/A)
+    * Rating : 900
+    * Code : 160A.cpp
+    * Tag : Greedy
+    
+  * [C.Painting Fence](https://codeforces.com/contest/448/problem/C)
+    * Rating : 1900
+    * Code : 448C.cpp
+    * Tag : Greedy, DP
+    
+  * [B.Code For 1](https://codeforces.com/contest/768/problem/B)
+    * Rating : 1600
+    * Code : 768B.cpp
+    * Tag : Divide And Conquer
+    
